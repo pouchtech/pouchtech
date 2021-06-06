@@ -37,6 +37,16 @@ body{
     padding-right:10px;
 
 }
+
+.sidebarleft{
+    width:60%;
+    float:left;
+    background-color: #e0ebeb;
+    padding-left:10px;
+    padding-right:10px;
+
+}
+
 .fix{
     clear:both;
 }
